@@ -120,35 +120,6 @@ O arquivo `database/mercado_ti.db` contém a tabela `mercado_ti`. O módulo `db.
 
 Se o banco não existir, o dashboard o cria automaticamente a partir do CSV.
 
-## Publicação
-
-### GitHub
-
-Crie um repositório chamado `projeto-g1`, depois:
-
-```bash
-git init
-git add .
-git commit -m "Projeto G1 Mercado de TI no Brasil"
-git branch -M main
-git remote add origin https://github.com/SEU-USUARIO/projeto-g1.git
-git push -u origin main
-```
-
-### GitHub Pages
-
-Em **Settings → Pages**, selecione a publicação a partir da branch `main` e da pasta `/root`. O arquivo `index.html` será a página de apresentação.
-
-### Streamlit Community Cloud
-
-1. Entre no Streamlit Community Cloud.
-2. Conecte sua conta GitHub.
-3. Selecione o repositório `projeto-g1`.
-4. Escolha `app.py` como arquivo principal.
-5. Publique.
-
-O `requirements.txt` deve permanecer na raiz do repositório para que o ambiente instale as dependências.
-
 ## Principais perguntas analíticas
 
 - Como o salário médio varia entre regiões?
