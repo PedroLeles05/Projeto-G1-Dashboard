@@ -2,6 +2,13 @@
 
 Projeto acadêmico de análise e visualização de dados com Python, Pandas, Matplotlib, Seaborn, Plotly, Streamlit e SQLite/SQLAlchemy.
 
+## Identificação acadêmica
+
+- **Aluno:** Pedro Leles
+- **Professor:** Alexandre Neves Louzada
+- **Disciplina:** Linguagens de Programação
+- **Projeto:** G1 — Mercado de TI no Brasil
+
 ## Objetivo
 
 Analisar uma base simulada do mercado de tecnologia brasileiro, identificando padrões de salários e oportunidades segundo período, região, UF, cidade, cargo, senioridade, tecnologia, modalidade, setor e nível de demanda.
