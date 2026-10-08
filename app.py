@@ -8,6 +8,7 @@ df = load_data()
 
 st.title('💻 Mercado de TI no Brasil')
 st.subheader('Análise de salários, vagas, tecnologias e demanda — 2015 a 2024')
+st.caption('Aluno: Pedro Leles · Professor: Alexandre Neves Louzada · Disciplina: Linguagens de Programação')
 st.write('Este dashboard analisa uma base simulada do mercado brasileiro de tecnologia, permitindo explorar diferenças por região, cargo, senioridade, tecnologia, modalidade e setor.')
 
 with st.sidebar:
